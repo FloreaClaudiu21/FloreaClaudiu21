@@ -115,4 +115,4 @@
 🔗 Instagram: <a href="https://www.instagram.com/claudiu_florea3/" target="_blank">claudiu_florea3</a>
 <br />
 <br />
-<h1 style="margin-top: 50px; text-align: center; font-size: 35px;">🙏 Thanks again for visiting, and feel free to reach out and connect with me!</h1>
+<p align="center" style="margin-top: 50px; text-align: center; font-size: 35px;">🙏 Thanks again for visiting, and feel free to reach out and connect with me!</p>
