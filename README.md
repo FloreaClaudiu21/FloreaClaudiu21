@@ -62,11 +62,11 @@
   <br />
   <h2>:fire: My Stats:</h2>
   <br />
-  <div align="center" style="justify-content: center; align-items: center; gap: 4rem; flex-direction: column;">
+  <div align="left" style="justify-content: center; align-items: center; gap: 4rem; flex-direction: column;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
