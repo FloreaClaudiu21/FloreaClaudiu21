@@ -44,7 +44,7 @@
   <br />
   <div align="center">
     [![Claudiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true&theme=radical)](https://github.com/FloreaClaudiu21)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21&layout=compact&theme=radical)](https://github.com/FloreaClaudiu21)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21&layout=compact&theme=radical)](https://github.com/FloreaClaudiu21/github-readme-stats)
   </div>
   <br />
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
