@@ -34,7 +34,7 @@
   </div>
  </div>
  <br />
- <h2><img src="https://img.icons8.com/dusk/64/000000/teamwork.png"/> Soft Skills</h2>
+ <h2><img src="https://img.icons8.com/dusk/64/000000/teamwork.png" width="32" height="32"/> Soft Skills</h2>
   <ul style="text-align: left; font-size: 20px;">
     <li>✅ Problem-solve</li>
     <li>✅ Pay attention to detail</li>
@@ -43,7 +43,7 @@
     <li>✅ Work collaboratively in a team environment</li>
   </ul>
   <br />
-  <h2><img src="https://img.icons8.com/dusk/32/000000/paperwork.png" width="32" height="32"/> Certifications</h2>
+  <h2><img src="https://img.icons8.com/dusk/64/000000/paperwork.png" width="32" height="32"/> Certifications</h2>
   <ul>
     <li>
       Web Design & JavaScript (07/2016 - 08/2016)<br>
