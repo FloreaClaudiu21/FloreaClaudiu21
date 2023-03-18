@@ -94,12 +94,22 @@
 - Music 🎶: I'm passionate about music and enjoy listening to a wide variety of genres, from classical to rock to electronic.
 - Learning 🧠: I have a thirst for knowledge and enjoy constantly learning new things, whether it's through books, online courses, or hands-on experience.
 
-<h2><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" style="vertical-align: middle" /> What I Want to Learn Next</h2>
+<h2><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" style="vertical-align:middle" /> What I Want to Learn Next</h2>
 <p align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript logo" width="100" height="100" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL logo" width="100" height="100" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="Vue.js logo" width="100" height="100" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/javafx-3521369-2944810.png" alt="JavaFX logo" width="100" height="100" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript logo" width="100" height="100" /><br>
+  TypeScript
+</p>
+<p align="center">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL logo" width="100" height="100" /><br>
+  GraphQL
+</p>
+<p align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="Vue.js logo" width="100" height="100" /><br>
+  Vue.js
+</p>
+<p align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javafx-3521369-2944810.png" alt="JavaFX logo" width="100" height="100" /><br>
+  JavaFX
 </p>
 
 <h2>📫 Connect with me on social media:</h2>
