@@ -60,6 +60,7 @@
   </ul>
   <br />
   :fire: My Stats:
+  <hr />
   <br />
   <div align="center" style="justify-content: center; align-items: center; gap: 1rem;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
@@ -78,6 +79,7 @@
   <br />
   <br />
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
+  <hr />
 🎸 RockBands, a ReactJS and Firebase-powered website that offers information about popular rock bands. Check it out here: https://webdevapp-project3-rockbands.netlify.app.</br>
 🦠 COVID-19 Tracker, a ReactJS and TailwindCSS web application that retrieves information about a country's latest COVID-19 cases, deaths, and recoveries using RapidAPI. Check it out here: https://webdevapp-covidtracker.netlify.app.</br>
 📋 Session of Scientific Communications task manager, a C# project I created as a student at the Romanian-American University. It allows users to manage tasks and receive notifications via email and message box.</br>
