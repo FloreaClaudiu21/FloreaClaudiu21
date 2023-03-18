@@ -62,7 +62,7 @@
   <br />
   <h2>:fire: My Stats:</h2>
   <br />
-  <div align="center" style="justify-content: center; align-items: center; gap: 4rem; flex-direction: row;">
+  <div align="center" style="justify-content: center; align-items: center; gap: 4rem; flex-direction: column;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
     <picture>
       <source 
@@ -101,4 +101,4 @@
 🔗 Instagram: <a href="https://www.instagram.com/claudiu_florea3/" target="_blank">claudiu_florea3</a>
 <br />
 <br />
-<p style="margin-top: 50px; text-align:center; font-size: 30px;">🙏 Thanks again for visiting, and feel free to reach out and connect with me!</p>
+<p style="margin-top: 50px; text-align: center; font-size: 35px;">🙏 Thanks again for visiting, and feel free to reach out and connect with me!</p>
