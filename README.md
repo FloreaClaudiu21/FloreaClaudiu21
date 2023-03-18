@@ -43,7 +43,7 @@
     <li>✅ Work collaboratively in a team environment</li>
   </ul>
   <br />
-  <h2><img src="https://img.icons8.com/dusk/64/000000/paperwork.png" width="32" height="32"/> Certifications</h2>
+  <h2><img src="https://img.icons8.com/dusk/64/000000/checklist.png" width="32" height="32"/> Certifications</h2>
   <ul>
     <li>
       Web Design & JavaScript (07/2016 - 08/2016)<br>
@@ -92,7 +92,7 @@
 - Music 🎶: I'm passionate about music and enjoy listening to a wide variety of genres, from classical to rock to electronic.
 - Learning 🧠: I have a thirst for knowledge and enjoy constantly learning new things, whether it's through books, online courses, or hands-on experience.
 
-<h2><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" style="vertical-align:middle" /> What I Want to Learn Next</h2>
+<h2><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" style="vertical-align:middle" width="32" height="32" /> What I Want to Learn Next</h2>
 <div style="display:flex; align-items:center; justify-content:flex-start;">
   <span style="display:flex; align-items:center; justify-content:center; margin-right: 20px;">
     <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript logo" width="100" height="100" />
