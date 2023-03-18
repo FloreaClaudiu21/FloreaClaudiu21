@@ -44,7 +44,8 @@
   <br />
   :fire: My Stats:
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21)](https://github.com/FloreaClaudiu21/github-readme-stats)
+  <br />
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FloreaClaudiu21&theme=dark&background=000000)](https://git.io/streak-stats)
   <br />
   <br />
