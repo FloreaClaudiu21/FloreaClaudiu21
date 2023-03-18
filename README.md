@@ -45,7 +45,7 @@
   :fire: My Stats:
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloreaClaudiu21&repo=FloreaClaudiu21" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21)](https://github.com/FloreaClaudiu21/FloreaClaudiu21)
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloreaClaudiu21&repo=FloreaClaudiu21" />
