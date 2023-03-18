@@ -42,7 +42,7 @@
     <li>✅ Work collaboratively in a team environment</li>
   </ul>
   <br />
-  ### :fire: My Stats :
+  :fire: My Stats:
   <div align="center">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FloreaClaudiu21&theme=dark&background=000000)](https://git.io/streak-stats)
