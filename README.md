@@ -43,18 +43,8 @@
   </ul>
   <br />
   <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='FloreaClaudiu21')](https://github.com/FloreaClaudiu21/github-readme-stats)
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true" />
-    </picture>
+    [![Claudiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=floreaclaudiu21&show_icons=true&theme=radical)](https://github.com/floreaclaudiu21)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floreaclaudiu21&layout=compact&theme=radical)](https://github.com/floreaclaudiu21)
   </div>
   <br />
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
