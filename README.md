@@ -42,9 +42,10 @@
     <li>✅ Work collaboratively in a team environment</li>
   </ul>
   <br />
+  ### :fire: My Stats :
   <div align="center">
-    [![Claudiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true&theme=radical)](https://github.com/FloreaClaudiu21)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21&layout=compact&theme=radical)](https://github.com/FloreaClaudiu21/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FloreaClaudiu21&theme=dark&background=000000)](https://git.io/streak-stats)
   </div>
   <br />
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
