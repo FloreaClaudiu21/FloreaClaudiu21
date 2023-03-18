@@ -34,7 +34,7 @@
   </div>
  </div>
  <br />
- <h2><img src="https://img.icons8.com/fluent/48/000000/soft-skills.png"/> Soft Skills</h2>
+ <h2><img src="https://img.icons8.com/dusk/64/000000/teamwork.png"/> Soft Skills</h2>
   <ul style="text-align: left; font-size: 20px;">
     <li>✅ Problem-solve</li>
     <li>✅ Pay attention to detail</li>
