@@ -112,10 +112,8 @@
 
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/claudiu-valentin-florea/" target="_blank">in/claudiu-valentin-florea</a><br>
 🔗 Facebook: <a href="https://www.facebook.com/claudiuflorea22" target="_blank">claudiuflorea22</a><br>
-🔗 Instagram: <a href="https://www.instagram.com/claudiu_florea3/" target="_blank">claudiu_florea3</a>
-<br />
-<br />
-🔗 My CV: <a href="https://www.linkedin.com/in/claudiu-valentin-florea/overlay/1635518301614/single-media-viewer/?profileId=ACoAADyBTQoBlHs5wJvz0HGTuLE0A0x50aF6VjI">
+🔗 Instagram: <a href="https://www.instagram.com/claudiu_florea3/" target="_blank">claudiu_florea3</a><br />
+🔗 My CV:  <a href="https://www.linkedin.com/in/claudiu-valentin-florea/overlay/1635518301614/single-media-viewer/?profileId=ACoAADyBTQoBlHs5wJvz0HGTuLE0A0x50aF6VjI">
    View my CV
 </a>
 <br />
