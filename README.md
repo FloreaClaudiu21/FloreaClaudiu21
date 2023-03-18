@@ -95,30 +95,20 @@
 - Learning 🧠: I have a thirst for knowledge and enjoy constantly learning new things, whether it's through books, online courses, or hands-on experience.
 
 <h2><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" style="vertical-align:middle" /> What I Want to Learn Next</h2>
-<p align="center">
-  <span style="display:flex; align-items:center; justify-content:center;">
+<div style="display:flex; align-items:center; justify-content:flex-start;">
+  <span style="display:flex; align-items:center; justify-content:center; margin-right: 20px;">
     <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript logo" width="100" height="100" />
-    <span style="margin-left: 20px;">TypeScript</span>
   </span>
-</p>
-<p align="center">
-  <span style="display:flex; align-items:center; justify-content:center;">
+  <span style="display:flex; align-items:center; justify-content:center; margin-right: 20px;">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL logo" width="100" height="100" />
-    <span style="margin-left: 20px;">GraphQL</span>
   </span>
-</p>
-<p align="center">
-  <span style="display:flex; align-items:center; justify-content:center;">
+  <span style="display:flex; align-items:center; justify-content:center; margin-right: 20px;">
     <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="Vue.js logo" width="100" height="100" />
-    <span style="margin-left: 20px;">Vue.js</span>
   </span>
-</p>
-<p align="center">
-  <span style="display:flex; align-items:center; justify-content:center;">
+  <span style="display:flex; align-items:center; justify-content:center; margin-right: 20px;">
     <img src="https://cdn.iconscout.com/icon/free/png-256/javafx-3521369-2944810.png" alt="JavaFX logo" width="100" height="100" />
-    <span style="margin-left: 20px;">JavaFX</span>
   </span>
-</p>
+</div>
 
 <h2>📫 Connect with me on social media:</h2>
 
