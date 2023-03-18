@@ -42,7 +42,7 @@
     <li>✅ Work collaboratively in a team environment</li>
   </ul>
   <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21)](https://github.com/FloreaClaudiu2/github-readme-stats)
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true&theme=dark"
