@@ -95,7 +95,7 @@
 - Learning 🧠: I have a thirst for knowledge and enjoy constantly learning new things, whether it's through books, online courses, or hands-on experience.
 
 <h2><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" style="vertical-align:middle" /> What I Want to Learn Next</h2>
-<div align="center" style="display: flex; flex-direction: row; gap: 1rem;">
+<div style="display: flex; flex-direction: row; gap: 1rem;">
   <span>
     <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript logo" width="100" height="100" /><br>
     TypeScript
