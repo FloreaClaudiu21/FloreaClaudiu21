@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="350"/>
 </div>
+<br />
 <div align="center" style="font-size: 24px; margin-top: 50px;">
   <p>I'm a student at the Romanian-American University and a passionate web developer with a broad range of hard skills, including:</p>
   <br />
@@ -45,11 +46,21 @@
   :fire: My Stats:
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloreaClaudiu21&repo=FloreaClaudiu21" />
-  </a>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21a&show_icons=true" />
+  </picture>
+  <br />
   <br />
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
+  <br />
 🎸 RockBands, a ReactJS and Firebase-powered website that offers information about popular rock bands. Check it out here: https://webdevapp-project3-rockbands.netlify.app.</br>
 🦠 COVID-19 Tracker, a ReactJS and TailwindCSS web application that retrieves information about a country's latest COVID-19 cases, deaths, and recoveries using RapidAPI. Check it out here: https://webdevapp-covidtracker.netlify.app.</br>
 📋 Session of Scientific Communications task manager, a C# project I created as a student at the Romanian-American University. It allows users to manage tasks and receive notifications via email and message box.</br>
