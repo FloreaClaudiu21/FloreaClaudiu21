@@ -115,4 +115,9 @@
 🔗 Instagram: <a href="https://www.instagram.com/claudiu_florea3/" target="_blank">claudiu_florea3</a>
 <br />
 <br />
+<a href="https://www.linkedin.com/in/claudiu-valentin-florea/overlay/1635518301614/single-media-viewer/?profileId=ACoAADyBTQoBlHs5wJvz0HGTuLE0A0x50aF6VjI">
+   <img src="https://img.icons8.com/color/96/000000/open-resume.png"/>
+   View my CV
+</a>
+<br />
 <p align="center" style="margin-top: 50px; text-align: center; font-size: 35px;">🙏 Thanks again for visiting, and feel free to reach out and connect with me!</p>
