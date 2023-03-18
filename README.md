@@ -43,17 +43,25 @@
     <li>✅ Work collaboratively in a team environment</li>
   </ul>
   <br />
-  Certifications:
-    Web Design & JavaScript (07/2016 - 08/2016)
-    Absolute School - Certificate number: 00074145 🎓
-    Ultimate PHP & MySQL Web Development Course & OOP Coding (07/2022 - 07/2022)
-    Udemy Academy - Credential ID: UC-636ae916-edd1-48eb-af88-52093cc9fefc 🎓💻
-    React - The Complete Guide (incl Hooks, Redux, React Routing, Animations, Next.js) (02/2023 - 02/2023)
-    Udemy Academy - Credential ID: UC-a1604902-b8ab-498f-86b9-c88388063b37 🎓💻🚀
+  <h2>Certifications</h2>
+  <ul>
+    <li>
+      Web Design & JavaScript (07/2016 - 08/2016)<br>
+      Absolute School - Certificate number: 00074145 <span class="icon">🎓</span>
+    </li>
+    <li>
+      Ultimate PHP & MySQL Web Development Course & OOP Coding (07/2022 - 07/2022)<br>
+      Udemy Academy - Credential ID: UC-636ae916-edd1-48eb-af88-52093cc9fefc <span class="icon">🎓💻</span>
+    </li>
+    <li>
+      React - The Complete Guide (incl Hooks, Redux, React Routing, Animations, Next.js) (02/2023 - 02/2023)<br>
+      Udemy Academy - Credential ID: UC-a1604902-b8ab-498f-86b9-c88388063b37 <span class="icon">🎓💻🚀</span>
+    </li>
+  </ul>
   <br />
   :fire: My Stats:
   <br />
-  <div align="center">
+  <div align="center" style="justify-content: center; align-items: center; gap: 1rem;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
     <picture>
       <source 
