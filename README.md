@@ -45,10 +45,10 @@
   :fire: My Stats:
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloreaClaudiu21&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloreaClaudiu21&repo=FloreaClaudiu21" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloreaClaudiu21&repo=convoychat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloreaClaudiu21&repo=FloreaClaudiu21" />
   </a>
   <br />
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
