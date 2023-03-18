@@ -27,6 +27,7 @@
     <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/color/96/000000/python.png"/>
   </div>
+ </div>
   <p style="margin-top: 50px;">When it comes to soft skills, I pride myself on my ability to:</p>
   <ul style="text-align: left; font-size: 20px;">
     <li>✅ Problem-solve</li>
