@@ -43,24 +43,33 @@
     <li>✅ Work collaboratively in a team environment</li>
   </ul>
   <br />
+  Certifications:
+    Web Design & JavaScript (07/2016 - 08/2016)
+    Absolute School - Certificate number: 00074145 🎓
+    Ultimate PHP & MySQL Web Development Course & OOP Coding (07/2022 - 07/2022)
+    Udemy Academy - Credential ID: UC-636ae916-edd1-48eb-af88-52093cc9fefc 🎓💻
+    React - The Complete Guide (incl Hooks, Redux, React Routing, Animations, Next.js) (02/2023 - 02/2023)
+    Udemy Academy - Credential ID: UC-a1604902-b8ab-498f-86b9-c88388063b37 🎓💻🚀
+  <br />
   :fire: My Stats:
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21a&show_icons=true" />
-  </picture>
+  <br />
+  <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21a&show_icons=true" />
+    </picture>
+  </div>
   <br />
   <br />
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
-  <br />
 🎸 RockBands, a ReactJS and Firebase-powered website that offers information about popular rock bands. Check it out here: https://webdevapp-project3-rockbands.netlify.app.</br>
 🦠 COVID-19 Tracker, a ReactJS and TailwindCSS web application that retrieves information about a country's latest COVID-19 cases, deaths, and recoveries using RapidAPI. Check it out here: https://webdevapp-covidtracker.netlify.app.</br>
 📋 Session of Scientific Communications task manager, a C# project I created as a student at the Romanian-American University. It allows users to manage tasks and receive notifications via email and message box.</br>
