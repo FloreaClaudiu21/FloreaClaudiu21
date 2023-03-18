@@ -21,10 +21,10 @@
     <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/96/000000/css3.png"/>
     <img src="https://img.icons8.com/color/96/000000/php.png"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/tailwind-css-1-1175071.png" alt="Tailwind CSS logo">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/tailwindcss-1-1175028.png" alt="Tailwind CSS logo" width="96" height="96">
     <img src="https://img.icons8.com/color/96/000000/python.png"/>
     <img src="https://img.icons8.com/color/96/000000/nestjs.png"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/express-2-458175.png" alt="Express logo" width="100" height="100">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/express-2-458175.png" alt="Express logo" width="96" height="96">
     <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/nextjs_icon_130846.png" width="96" height="96"/>
@@ -62,7 +62,7 @@
   <br />
   <h2>:fire: My Stats:</h2>
   <br />
-  <div align="center" style="justify-content: center; align-items: center; gap: 1rem;">
+  <div align="center" style="justify-content: center; align-items: center; gap: 1rem; flex-direction: row;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
     <picture>
       <source 
