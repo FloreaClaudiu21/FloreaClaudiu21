@@ -62,7 +62,7 @@
   <br />
   <h2>:fire: My Stats:</h2>
   <br />
-  <div align="left" style="display: flex; justify-content: center; align-items: center; gap: 4rem; flex-direction: column;">
+  <div align="left" style="display: flex; justify-content: flex-start; align-items: center; gap: 4rem; flex-direction: column;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
     <picture>
       <source 
@@ -76,7 +76,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21a&show_icons=true" />
     </picture>
   </div>
-  <br />
   <br />
   <h2 style="margin-top: 50px;">🚀 Some of my recent projects include:</h2>
 🎸 RockBands, a ReactJS and Firebase-powered website that offers information about popular rock bands. Check it out here: https://webdevapp-project3-rockbands.netlify.app.</br>
