@@ -44,10 +44,12 @@
   <br />
   :fire: My Stats:
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21)](https://github.com/FloreaClaudiu21/github-readme-stats)
-  <br />
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FloreaClaudiu21&theme=dark&background=000000)](https://git.io/streak-stats)
-  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloreaClaudiu21&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloreaClaudiu21&repo=convoychat" />
+  </a>
   <br />
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
 🎸 RockBands, a ReactJS and Firebase-powered website that offers information about popular rock bands. Check it out here: https://webdevapp-project3-rockbands.netlify.app.</br>
