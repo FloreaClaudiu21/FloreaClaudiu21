@@ -96,19 +96,19 @@
 
 <h2><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" style="vertical-align:middle" /> What I Want to Learn Next</h2>
 <div align="center" style="display: flex; flex-direction: row; gap: 1rem;">
-  <p align="center">
+  <p>
     <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript logo" width="100" height="100" /><br>
     TypeScript
   </p>
-  <p align="center">
+  <p>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" alt="GraphQL logo" width="100" height="100" /><br>
     GraphQL
   </p>
-  <p align="center">
+  <p>
     <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="Vue.js logo" width="100" height="100" /><br>
     Vue.js
   </p>
-  <p align="center">
+  <p>
     <img src="https://cdn.iconscout.com/icon/free/png-256/javafx-3521369-2944810.png" alt="JavaFX logo" width="100" height="100" /><br>
     JavaFX
   </p>
