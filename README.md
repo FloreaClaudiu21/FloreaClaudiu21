@@ -43,10 +43,9 @@
   </ul>
   <br />
   :fire: My Stats:
-  <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FloreaClaudiu21&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FloreaClaudiu21&theme=dark&background=000000)](https://git.io/streak-stats)
   <br />
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
 🎸 RockBands, a ReactJS and Firebase-powered website that offers information about popular rock bands. Check it out here: https://webdevapp-project3-rockbands.netlify.app.</br>
