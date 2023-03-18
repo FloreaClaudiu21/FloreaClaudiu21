@@ -34,8 +34,7 @@
   </div>
  </div>
  <br />
- <br />
-  <p style="margin-top: 50px; text-align:center; font-size: 30px;">When it comes to soft skills, I pride myself on my ability to:</p>
+ <h2><img src="https://img.icons8.com/fluent/48/000000/soft-skills.png"/> Soft Skills</h2>
   <ul style="text-align: left; font-size: 20px;">
     <li>✅ Problem-solve</li>
     <li>✅ Pay attention to detail</li>
@@ -44,7 +43,7 @@
     <li>✅ Work collaboratively in a team environment</li>
   </ul>
   <br />
-  <h2>Certifications</h2>
+  <h2><img src="https://img.icons8.com/dusk/32/000000/paperwork.png" width="32" height="32"/> Certifications</h2>
   <ul>
     <li>
       Web Design & JavaScript (07/2016 - 08/2016)<br>
