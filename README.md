@@ -27,7 +27,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-512/express-2-458175.png" alt="Express logo" width="96" height="96">
     <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/nextjs_icon_130846.png" width="96" height="96"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js logo" width="96" height="96">
     <img src="https://img.icons8.com/color/96/000000/git.png"/>
     <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/>
     <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
@@ -62,7 +62,7 @@
   <br />
   <h2>:fire: My Stats:</h2>
   <br />
-  <div align="center" style="justify-content: center; align-items: center; gap: 1rem; flex-direction: row;">
+  <div align="center" style="justify-content: center; align-items: center; gap: 4rem; flex-direction: row;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
     <picture>
       <source 
