@@ -1,12 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <div align="center">
   <h1>Hi there, I'm Claudiu! 👋</h1>
-  <img src="https://i.imgur.com/QNlOtnL.png" alt="web development banner" width="700">
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="350"/>
 </div>
 <div align="center" style="font-size: 24px; margin-top: 50px;">
   <p>I'm a student at the Romanian-American University and a passionate web developer with a broad range of hard skills, including:</p>
+  <br />
   <div style="display: flex; gap: 1.5rem; flex-direction: row;"> 
     <img src="https://img.icons8.com/color/96/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/96/000000/angularjs.png"/>
@@ -28,7 +31,9 @@
     <img src="https://img.icons8.com/color/96/000000/python.png"/>
   </div>
  </div>
-  <p style="margin-top: 50px;">When it comes to soft skills, I pride myself on my ability to:</p>
+ <br />
+ <br />
+  <p style="margin-top: 50px; text-align:center; font-size: 30px;">When it comes to soft skills, I pride myself on my ability to:</p>
   <ul style="text-align: left; font-size: 20px;">
     <li>✅ Problem-solve</li>
     <li>✅ Pay attention to detail</li>
