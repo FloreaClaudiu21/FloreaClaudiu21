@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/color/96/000000/nestjs.png"/>
     <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/96/000000/next-js.png"/>
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/nextjs_icon_130846.png" width="96" height="96"/>
     <img src="https://img.icons8.com/color/96/000000/git.png"/>
     <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/>
     <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
@@ -41,12 +41,34 @@
     <li>✅ Manage my time efficiently</li>
     <li>✅ Work collaboratively in a team environment</li>
   </ul>
+  <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=FloreaClaudiu21&show_icons=true" />
+</picture>
   <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
 🎸 RockBands, a ReactJS and Firebase-powered website that offers information about popular rock bands. Check it out here: https://webdevapp-project3-rockbands.netlify.app.</br>
 🦠 COVID-19 Tracker, a ReactJS and TailwindCSS web application that retrieves information about a country's latest COVID-19 cases, deaths, and recoveries using RapidAPI. Check it out here: https://webdevapp-covidtracker.netlify.app.</br>
 📋 Session of Scientific Communications task manager, a C# project I created as a student at the Romanian-American University. It allows users to manage tasks and receive notifications via email and message box.</br>
 
 👨‍🎓 I'm currently pursuing a degree in Computer Science at the Romanian-American University.
+
+🌟 My Passions
+
+- Reading 📚: I enjoy getting lost in a good book, whether it's a classic novel or a contemporary non-fiction work.
+- Walking 🚶‍♀️: I love going for long walks, whether it's to clear my head, get some exercise, or explore a new neighborhood.
+- Exploring 🗺️: I have a curious spirit and enjoy exploring new places, whether it's a local museum or a foreign country.
+- Photography 📷: I enjoy capturing the beauty of the world through my camera lens and experimenting with different techniques.
+- Music 🎶: I'm passionate about music and enjoy listening to a wide variety of genres, from classical to rock to electronic.
+- Learning 🧠: I have a thirst for knowledge and enjoy constantly learning new things, whether it's through books, online courses, or hands-on experience.
 
 📫 Connect with me on social media:
 
