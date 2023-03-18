@@ -59,8 +59,7 @@
     </li>
   </ul>
   <br />
-  :fire: My Stats:
-  <hr />
+  <h2>:fire: My Stats:</h2>
   <br />
   <div align="center" style="justify-content: center; align-items: center; gap: 1rem;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloreaClaudiu21" />
@@ -78,15 +77,15 @@
   </div>
   <br />
   <br />
-  <p style="margin-top: 50px;">🚀 Some of my recent projects include:</p>
+  <h2 style="margin-top: 50px;">🚀 Some of my recent projects include:</h2>
   <hr />
 🎸 RockBands, a ReactJS and Firebase-powered website that offers information about popular rock bands. Check it out here: https://webdevapp-project3-rockbands.netlify.app.</br>
 🦠 COVID-19 Tracker, a ReactJS and TailwindCSS web application that retrieves information about a country's latest COVID-19 cases, deaths, and recoveries using RapidAPI. Check it out here: https://webdevapp-covidtracker.netlify.app.</br>
 📋 Session of Scientific Communications task manager, a C# project I created as a student at the Romanian-American University. It allows users to manage tasks and receive notifications via email and message box.</br>
-
+</br>
 👨‍🎓 I'm currently pursuing a degree in Computer Science at the Romanian-American University.
 
-🌟 My Passions
+<h2>🌟 My Passions</h2>
 
 - Reading 📚: I enjoy getting lost in a good book, whether it's a classic novel or a contemporary non-fiction work.
 - Walking 🚶‍♀️: I love going for long walks, whether it's to clear my head, get some exercise, or explore a new neighborhood.
@@ -95,7 +94,7 @@
 - Music 🎶: I'm passionate about music and enjoy listening to a wide variety of genres, from classical to rock to electronic.
 - Learning 🧠: I have a thirst for knowledge and enjoy constantly learning new things, whether it's through books, online courses, or hands-on experience.
 
-📫 Connect with me on social media:
+<h2>📫 Connect with me on social media:</h2>
 
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/claudiu-valentin-florea/" target="_blank">in/claudiu-valentin-florea</a><br>
 🔗 Facebook: <a href="https://www.facebook.com/claudiuflorea22" target="_blank">claudiuflorea22</a><br>
