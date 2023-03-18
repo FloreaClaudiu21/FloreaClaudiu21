@@ -21,15 +21,16 @@
     <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/96/000000/css3.png"/>
     <img src="https://img.icons8.com/color/96/000000/php.png"/>
-    <img src="https://img.icons8.com/color/96/000000/tailwind-css.png"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/tailwind-css-1-1175071.png" alt="Tailwind CSS logo">
+    <img src="https://img.icons8.com/color/96/000000/python.png"/>
     <img src="https://img.icons8.com/color/96/000000/nestjs.png"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/express-2-458175.png" alt="Express logo" width="100" height="100">
     <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/nextjs_icon_130846.png" width="96" height="96"/>
     <img src="https://img.icons8.com/color/96/000000/git.png"/>
     <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/>
     <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/96/000000/python.png"/>
   </div>
  </div>
  <br />
@@ -78,7 +79,6 @@
   <br />
   <br />
   <h2 style="margin-top: 50px;">🚀 Some of my recent projects include:</h2>
-  <hr />
 🎸 RockBands, a ReactJS and Firebase-powered website that offers information about popular rock bands. Check it out here: https://webdevapp-project3-rockbands.netlify.app.</br>
 🦠 COVID-19 Tracker, a ReactJS and TailwindCSS web application that retrieves information about a country's latest COVID-19 cases, deaths, and recoveries using RapidAPI. Check it out here: https://webdevapp-covidtracker.netlify.app.</br>
 📋 Session of Scientific Communications task manager, a C# project I created as a student at the Romanian-American University. It allows users to manage tasks and receive notifications via email and message box.</br>
@@ -98,6 +98,7 @@
 
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/claudiu-valentin-florea/" target="_blank">in/claudiu-valentin-florea</a><br>
 🔗 Facebook: <a href="https://www.facebook.com/claudiuflorea22" target="_blank">claudiuflorea22</a><br>
-🔗 Instagram: <a href="https://www.instagram.com/claudiu_florea3/" target="_blank">claudiu_florea3</a><br>
-
-🙏 Thanks again for visiting, and feel free to reach out and connect with me!
+🔗 Instagram: <a href="https://www.instagram.com/claudiu_florea3/" target="_blank">claudiu_florea3</a>
+<br />
+<br />
+<p style="margin-top: 50px; text-align:center; font-size: 30px;">🙏 Thanks again for visiting, and feel free to reach out and connect with me!</p>
