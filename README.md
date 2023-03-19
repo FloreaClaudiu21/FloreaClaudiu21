@@ -14,6 +14,7 @@
   <div style="display: flex; gap: 1.5rem; flex-direction: row;"> 
     <img src="https://img.icons8.com/color/96/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/96/000000/angularjs.png"/>
+    <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js logo" width="96" height="96">
     <img src="https://img.icons8.com/color/96/000000/firebase.png"/>
     <img src="https://img.icons8.com/color/96/000000/mongodb.png"/>
     <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
@@ -26,10 +27,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" width="96" height="96"/>
     <img src="https://img.icons8.com/color/96/000000/nestjs.png"/>
     <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Express logo" width="96" height="96">
-    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express logo" width="96" height="96">
+    <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express logo" width="96" height="96">
     <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
-    <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js logo" width="96" height="96">
     <img src="https://img.icons8.com/color/96/000000/git.png"/>
     <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/>
     <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
