@@ -25,7 +25,7 @@
     <img src="https://d4.alternativeto.net/uaUADPLN5QTqRHNl0qujQbTXzm5wjsAq5K9Y-ylGjdQ/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy90YWlsd2luZC1jc3NfMTM2NjE5LnBuZw.png" alt="Tailwind CSS logo" width="96" height="96">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" width="96" height="96"/>
     <img src="https://img.icons8.com/color/96/000000/nestjs.png"/>
-    <img src="https://w7.pngwing.com/pngs/117/744/png-transparent-node-js-javascript-express-js-software-developer-react-network-code-angle-text-rectangle.png" alt="Express logo" width="96" height="96">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Express logo" width="96" height="96">
     <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express logo" width="96" height="96">
     <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
