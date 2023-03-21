@@ -90,7 +90,6 @@
 - Reading 📚: I enjoy getting lost in a good book, whether it's a classic novel or a contemporary non-fiction work.
 - Walking 🚶‍♀️: I love going for long walks, whether it's to clear my head, get some exercise, or explore a new neighborhood.
 - Exploring 🗺️: I have a curious spirit and enjoy exploring new places, whether it's a local museum or a foreign country.
-- Photography 📷: I enjoy capturing the beauty of the world through my camera lens and experimenting with different techniques.
 - Music 🎶: I'm passionate about music and enjoy listening to a wide variety of genres, from classical to rock to electronic.
 - Learning 🧠: I have a thirst for knowledge and enjoy constantly learning new things, whether it's through books, online courses, or hands-on experience.
 
